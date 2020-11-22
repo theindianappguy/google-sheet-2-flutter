@@ -1,4 +1,4 @@
-# google_sheet_db
+# Fetch data from GoogleSheet to flutter app 
 
 A new Flutter project.
 
