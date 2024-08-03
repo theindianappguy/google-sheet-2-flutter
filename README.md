@@ -12,8 +12,12 @@ To Learn About API:
 
 If you found this helpful or you learned something from this and want to thank me, consider buying me a cup of ☕ (it helps & supports me to make more): https://paypal.me/iamsanskartiwari
 
-📙 Join 5-Day Flutter Bootcamp for Beginners
-https://flutternerd.com/free-training/
+### Created & Maintained By
+
+[Sanskar Tiwari](https://github.com/theindianappguy) ([@indianappguy](https://twitter.com/indianappguy)) ([YouTube](https://www.youtube.com/c/SanskarTiwari))
+
+> If you found this project helpful or you learned something from the source code and want to thank me,
+> consider checking out what i am building at [MagicSlides.app](https://www.magicslides.app), [MagicForm.app](https://www.magicform.app) & [SheetAI.app](https://www.sheetai.app)
 
 🎓More tutorials you may like
 ○ Build a Flutter News App with NewsApi Org: https://youtu.be/aaGcER1uUoE
